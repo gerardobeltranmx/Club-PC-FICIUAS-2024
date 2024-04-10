@@ -1,5 +1,8 @@
-int main(int argc, char const *argv[])
+#include <iostream>
+#include <iomanip>
+
+int main()
 {
-    /* code */
+    
     return 0;
 }
